@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |Sales-Tax             |  Calculate Sales Taxes             | https://github.com/Jauloma/Git_Project-Q1.git       |
+| 2 |California-Housing             |Predict the Median Housing Price            |https://github.com/Jauloma/Git_Project-Q2.git       |
+| 3 |Shifted-Images             |Predict accuracy of training after shifting the images             |https://github.com/Jauloma/Git_Project-Q3.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
